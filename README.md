@@ -47,34 +47,44 @@ Behavioural Interpretation
 
 ---
 
+## 🔄 From Traditional Tracking to Deep Learning
+
+The analysis progressed from a conventional worm-tracking workflow to a
+deep-learning-based approach, followed by quantitative movement analysis.
+
 <p align="center">
-  <img src="Input.png" width="30%" />
-  <img src="images/02_detection.png" width="30%" />
-  <img src="images/03_tracking.png" width="30%" />
+  <img src="images/input_video.png" width="28%" />
+  &nbsp;→&nbsp;
+  <img src="images/wrmtrck.png" width="28%" />
+  &nbsp;→&nbsp;
+  <img src="images/deep_worm_tracker.png" width="28%" />
 </p>
 
 <p align="center">
-  <b>Input</b>
+  <b>Input Video</b>
+  &nbsp;&nbsp;→&nbsp;&nbsp;
+  <b>Previous Tracking — wrmtrck</b>
+  &nbsp;&nbsp;→&nbsp;&nbsp;
+  <b>Detection & Tracking — Deep-Worm-Tracker</b>
+</p>
+
+<br>
+
+<p align="center">
+  <img src="images/tracking_output.png" width="28%" />
   &nbsp;→&nbsp;
-  <b>Detection</b>
+  <img src="images/fourier_analysis.png" width="28%" />
   &nbsp;→&nbsp;
-  <b>Tracking</b>
+  <img src="images/movement_features.png" width="28%" />
 </p>
 
 <p align="center">
-  <img src="images/04_skeleton.png" width="30%" />
-  <img src="images/05_movement.png" width="30%" />
-  <img src="images/06_fft.png" width="30%" />
+  <b>Tracking Output</b>
+  &nbsp;&nbsp;→&nbsp;&nbsp;
+  <b>Movement Frequency Analysis</b>
+  &nbsp;&nbsp;→&nbsp;&nbsp;
+  <b>Movement Features</b>
 </p>
-
-<p align="center">
-  <b>Skeletonisation</b>
-  &nbsp;→&nbsp;
-  <b>Movement Analysis</b>
-  &nbsp;→&nbsp;
-  <b>Fourier Analysis</b>
-</p>
-
 ---
 
 ## Deep Learning & Computer Vision
