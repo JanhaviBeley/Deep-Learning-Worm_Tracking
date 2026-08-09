@@ -48,7 +48,7 @@ Behavioural Interpretation
 ---
 
 <p align="center">
-  <img src="images/01_video.png" width="30%" />
+  <img src="Input.png" width="30%" />
   <img src="images/02_detection.png" width="30%" />
   <img src="images/03_tracking.png" width="30%" />
 </p>
