@@ -17,7 +17,7 @@ The project focuses on converting worm videos into structured movement data and 
 ---
 ## Research Context
 
-I conducted this work as part of the research at **[LuthLab](https://www.luthlab.org)** , **[Simmons University](simmons university )**, working with **[Dr.Eric Luth](https://www.linkedin.com/in/eric-luth), [Dr.Jared Deighton](https://www.linkedin.com/in/jared-deighton-phd-390362173) and [Dr.Nicole Rockweiler](https://www.linkedin.com/in/nicole-rockweiler)** as my mentors and **[Katie Mendez-Solano](https://www.linkedin.com/in/katie-mendez-solano-5a536421b/)** as the biological researcher.
+I conducted this work as part of the research at **[LuthLab](https://www.luthlab.org)** , **[Simmons University](https://www.simmons.edu)**, working with **[Dr.Eric Luth](https://www.linkedin.com/in/eric-luth), [Dr.Jared Deighton](https://www.linkedin.com/in/jared-deighton-phd-390362173) and [Dr.Nicole Rockweiler](https://www.linkedin.com/in/nicole-rockweiler)** as my mentors and **[Katie Mendez-Solano](https://www.linkedin.com/in/katie-mendez-solano-5a536421b/)** as the biological researcher.
 
 The project combined biological research with **deep learning, computer vision and data analysis** to study *C. elegans* movement and develop quantitative methods for behavioural analysis relevant to Parkinson's disease research.
 
